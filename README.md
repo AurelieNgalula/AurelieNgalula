@@ -40,15 +40,14 @@ Explore the interactive dashboard [here](https://prosperalima-chapter-project-om
   [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 
-## Courseworks
-#- <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
-
-  **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://github.com/Safrin03/Coursera-IBM_Data_Analyst_Professional_Certificate) :** \
+## Courseworks (Certificates)
+- **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04) :** \
   Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.\
-[Credential Verification](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04)
 <br>  </br>
 
 - **[SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0011096722415)**
+  <br>  </br>
+  
 ## Let's Connect!
 - 📫 Email: aureliengalulangassam@yahoo.fr
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aurelie-ngalula-ngassam-845033104)
