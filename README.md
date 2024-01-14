@@ -41,20 +41,18 @@ Explore the interactive dashboard [here](https://prosperalima-chapter-project-om
 
 
 ## Courseworks
-- <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
+#- <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
 
-  **[IBM Data Analyst Professional Certificate by IBM on Coursera](https://github.com/Safrin03/Coursera-IBM_Data_Analyst_Professional_Certificate) :** \
-Completed a comprehensive program covering data analysis, data visualization, and data science using Python.\
-[Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
+  **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://github.com/Safrin03/Coursera-IBM_Data_Analyst_Professional_Certificate) :** \
+  Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.\
+[Credential Verification](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04)
 <br>  </br>
 
-- **[PwC Switzerland Power BI Job Simulation on Forage](https://drive.google.com/file/d/1alUt3yxzyQZUUbbIF5GVDnh14iB9oNEW/view?usp=sharing)**
+- **[SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0011096722415)**
 ## Let's Connect!
-- 📫 Email: safrin2633@gmail.com
-- 💼 Portfolio : [Project Portfolio](https://www.datascienceportfol.io/SafrinDataInsights)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
-- 🎓 Coursera: [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
-- 📊 Kaggle : [Kaggle Profile](https://www.kaggle.com/safrin03)
+- 📫 Email: aureliengalulangassam@yahoo.fr
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aurelie-ngalula-ngassam-845033104)
+- 🎓 DatCcamp: [DataCamp Profile](https://www.datacamp.com/portfolio/aureliengalulangassam)
 
 
 
