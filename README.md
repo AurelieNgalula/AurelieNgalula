@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Aurelie 👋
+
+I'm a passionate and aspiring Data Scientist with a strong experience in data analysis, visualization, and a good foundation in machine learning. I love transforming raw data into meaningful insights.
 
 <!--
 **AurelieNgalula/AurelieNgalula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
