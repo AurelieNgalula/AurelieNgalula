@@ -17,20 +17,12 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 
 
 ## 🚀 Projects
-- **Churn Prediction Model :** Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
-  [Link to Project](https://github.com/Safrin03/Customer-Churn-Prediction)
+- **Injuries Prediction Model :** We propose to explain the severity of injuries sustained by victims of bodily road accidents in France, as a function of human factors, vehicle characteristics and external conditions. And to identify the most important causes involved.
+  [Link to Project](https://github.com/AurelieNgalula/blessures_accidents_corporels_France)
 
-- **Fraud Detection and Prevention :** Implemented credit card fraud detection for real world dataset using Machine learning models for customer transactions. Proposed preventive measures for future fraud prevention.
-  [Link to Project](https://github.com/Safrin03/Fraud-detection-machine-learning)
+- **Benchmark and OOD detector for Text :** We have evaluated the performance of three basic approaches for detecting OOD samples in binary sentiment classification.
+  [Link to Project](https://github.com/AurelieNgalula/OOD_NLP)
 
-- **Customer Churn Analysis Dashboard :** Created an interactive Bank Customer Churn Analysis Dashboard using Power BI, analyzing a comprehensive real world dataset of customers.
-  [Link to Project](https://github.com/Safrin03/Customer-Churn-Analysis-Dashboard)
-
-- **Sentiment Analysis for Customer Reviews :** Developed a sentiment analysis model using Machine learning and NLP techniques to analyze customer reviews.
-  [Link to Project](https://github.com/Safrin03/Sentiment-Analysis-Amazon-Alexa-Reviews)
-
-- **Sales Analysis Dashboard :** Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
-  [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 
 ## Courseworks (Certificates)
