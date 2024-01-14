@@ -1,5 +1,6 @@
 ### Hi there, I'm Aurelie 👋
 
+
 I'm a passionate and aspiring Data Scientist with a strong experience in data analysis, visualization, and a good foundation in machine learning. I love transforming raw data into meaningful insights.
 
 <!--
