@@ -15,7 +15,6 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 - **Database**: SQL for data querying and analysis (MySQL)
 - **Tools**: Familiar with Excel, Power BI, Pandas, Numpy, Scikit-learn, and Jupyter Notebooks
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safrin03&show_icons=true&locale=en&layout=compact" alt="safrin03" /></p>
 
 ## My Recent Open Source Works:
 🚀 **ProsperaLima: Real-world Data Science Impact**
