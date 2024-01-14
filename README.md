@@ -16,14 +16,7 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 - **Tools**: Familiar with Excel, Power BI, Pandas, Numpy, Scikit-learn, and Jupyter Notebooks
 
 
-## My Recent Open Source Works:
-🚀 **ProsperaLima: Real-world Data Science Impact**
-
-Contributed significantly to a real-world data science and analytics project focused on the Economic Analysis of Lima Metropolitan Area. Led the exploration of diverse datasets, extracting actionable insights using Python, Pandas, and advanced visualization tools like Matplotlib, Seaborn, and Plotly. As a contributor, played a pivotal role in the creation of an interactive Streamlit dashboard, providing stakeholders with a comprehensive view of Lima's economic landscape. This project not only honed my data science skills but also contributed valuable insights to inform decision-making for the city's development.
-
-Explore the interactive dashboard [here](https://prosperalima-chapter-project-omdena.streamlit.app/).
-
-## Projects
+## 🚀 Projects
 - **Churn Prediction Model :** Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
   [Link to Project](https://github.com/Safrin03/Customer-Churn-Prediction)
 
@@ -41,12 +34,11 @@ Explore the interactive dashboard [here](https://prosperalima-chapter-project-om
 
 
 ## Courseworks (Certificates)
-- **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04) :** \
-  Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.\
-<br>  </br>
 
 - **[SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0011096722415)**
   <br>  </br>
+- **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04) :** \
+  Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.\
   
 ## Let's Connect!
 - 📫 Email: aureliengalulangassam@yahoo.fr
