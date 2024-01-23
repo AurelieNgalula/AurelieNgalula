@@ -17,6 +17,8 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 
 
 ## 🚀 Projects
+- **Titanic prediction KNN model :** The aim of this project is to predict the survival of the Titanic's passengers using a nearest neighbour algorithm.
+   [Link to Project](https://github.com/AurelieNgalula/Titanic-KNN-)
 - **Injuries Prediction Model :** We propose to explain the severity of injuries sustained by victims of bodily road accidents in France, as a function of human factors, vehicle characteristics and external conditions. And to identify the most important causes involved.
   [Link to Project](https://github.com/AurelieNgalula/blessures_accidents_corporels_France)
 
