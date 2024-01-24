@@ -12,7 +12,7 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 - **Data Visualization**: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Power BI
 - **Machine Learning**: Knowledgeable about machine learning algorithms and techniques
 - **Programming Languages**: Python for data manipulation and analysis
-- **Database**: SQL for data querying and analysis (MySQL)
+- **Database**: SQL for data querying and analysis (PostgreSQL)
 - **Tools**: Familiar with Excel, Power BI, Pandas, Numpy, Scikit-learn, and Jupyter Notebooks
 
 
