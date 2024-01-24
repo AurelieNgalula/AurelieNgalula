@@ -32,12 +32,12 @@ I'm a passionate and aspiring Data Scientist with a strong experience in data an
 - **[SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0011096722415)**
   <br>  </br>
 - **[IBM Getting start with Git and Github Certificate by IBM on Coursera](https://coursera.org/share/22dd993a9a0966de784582e66acfaf04) :** \
-  Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.\
+  Self-paced, introductory course to become familiar with collaborative version control and popular Git platforms.
   
 ## Let's Connect!
 - 📫 Email: aureliengalulangassam@yahoo.fr
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aurelie-ngalula-ngassam-845033104)
-- 🎓 DatCcamp: [DataCamp Profile](https://www.datacamp.com/portfolio/aureliengalulangassam)
+- 🎓 DataCamp: [DataCamp Profile](https://www.datacamp.com/portfolio/aureliengalulangassam)
 
 
 
